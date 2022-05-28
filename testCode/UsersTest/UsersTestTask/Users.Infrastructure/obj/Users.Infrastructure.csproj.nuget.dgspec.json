@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj": {}
+    "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj": {
+    "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj",
+        "projectUniqueName": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj",
         "projectName": "Users.Application",
-        "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj",
+        "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj",
         "packagesPath": "C:\\Users\\hamza.zubaca\\.nuget\\packages\\",
-        "outputPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\obj\\",
+        "outputPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj": {
-                "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj"
+              "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj": {
+                "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj": {
+    "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj",
+        "projectUniqueName": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj",
         "projectName": "Users.Domain",
-        "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj",
+        "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\Users.Domain.csproj",
         "packagesPath": "C:\\Users\\hamza.zubaca\\.nuget\\packages\\",
-        "outputPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\obj\\",
+        "outputPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj": {
+    "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
+        "projectUniqueName": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
         "projectName": "Users.Infrastructure",
-        "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
+        "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\hamza.zubaca\\.nuget\\packages\\",
-        "outputPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\obj\\",
+        "outputPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,8 +163,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj": {
-                "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj"
+              "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj": {
+                "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj"
               }
             }
           }

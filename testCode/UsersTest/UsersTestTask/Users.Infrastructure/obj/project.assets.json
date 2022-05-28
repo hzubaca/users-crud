@@ -2038,11 +2038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
+      "projectUniqueName": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
       "projectName": "Users.Infrastructure",
-      "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
+      "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\Users.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\hamza.zubaca\\.nuget\\packages\\",
-      "outputPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\obj\\",
+      "outputPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2062,8 +2062,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj": {
-              "projectPath": "C:\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj"
+            "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj": {
+              "projectPath": "C:\\test2\\testCode\\UsersTest\\UsersTestTask\\Users.Application\\Users.Application.csproj"
             }
           }
         }
