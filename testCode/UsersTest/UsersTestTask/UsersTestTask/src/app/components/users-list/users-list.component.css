@@ -1,0 +1,14 @@
+body {
+    display: flex
+}
+
+.users-table {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.add-user-btn {
+    margin: 20px;
+}

@@ -1,0 +1,24 @@
+<h1 mat-dialog-title>Assign permissions</h1>
+<div class="form-container">
+  <div mat-dialog-content>
+    <form [formGroup]="formGroup">
+      <mat-form-field>
+        <input matInput type="text" formControlName="userId" placeholder="UserId">
+        <mat-error>
+        </mat-error>
+      </mat-form-field>      
+      <mat-form-field>
+        <mat-label>Permissions</mat-label>
+        <mat-select formControlName="permissionIds" multiple>
+          <mat-option *ngFor="let permission of permissions" [value]="permission.id">{{permission.code}}</mat-option>
+        </mat-select>
+        <mat-error>
+        </mat-error>
+      </mat-form-field>
+    </form>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-button (click)="cancel()">Cancel</button>
+    <button mat-button (click)="savePermissions()">Save</button>
+  </div>
+</div>

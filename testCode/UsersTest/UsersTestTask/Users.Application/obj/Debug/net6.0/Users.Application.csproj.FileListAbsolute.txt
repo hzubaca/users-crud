@@ -1,0 +1,15 @@
+C:\testCode\UsersTest\UsersTestTask\Users.Application\bin\Debug\net6.0\Users.Application.deps.json
+C:\testCode\UsersTest\UsersTestTask\Users.Application\bin\Debug\net6.0\Users.Application.dll
+C:\testCode\UsersTest\UsersTestTask\Users.Application\bin\Debug\net6.0\Users.Application.pdb
+C:\testCode\UsersTest\UsersTestTask\Users.Application\bin\Debug\net6.0\Users.Domain.dll
+C:\testCode\UsersTest\UsersTestTask\Users.Application\bin\Debug\net6.0\Users.Domain.pdb
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.csproj.AssemblyReference.cache
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.AssemblyInfoInputs.cache
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.AssemblyInfo.cs
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.csproj.CoreCompileInputs.cache
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.csproj.CopyComplete
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.dll
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\refint\Users.Application.dll
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\Users.Application.pdb
+C:\testCode\UsersTest\UsersTestTask\Users.Application\obj\Debug\net6.0\ref\Users.Application.dll
